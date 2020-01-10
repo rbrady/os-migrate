@@ -7,3 +7,5 @@ Contributing
 ------------
 
 Refer to [doc/contributing.md](doc/contributing.md).
+
+CI Test
